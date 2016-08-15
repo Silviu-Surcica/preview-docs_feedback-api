@@ -103,7 +103,7 @@ CSAT Question Variants
 +----+-----------------------------------------------------------------------------------------+
 | 3  | How would you rate the overall experience with <display_name>?                          |
 +----+-----------------------------------------------------------------------------------------+
-| 4  | How would you rate your overall experience with <display_name>?                         |                  |
+| 4  | How would you rate your overall experience with <display_name>?                         |
 +----+-----------------------------------------------------------------------------------------+
 | 5  | How would you rate your experience so far with <display_name>?                          |
 +----+-----------------------------------------------------------------------------------------+
