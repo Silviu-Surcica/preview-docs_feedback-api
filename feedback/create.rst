@@ -59,18 +59,20 @@ Example Result
 
 .. code:: javascript
 
-	{
-		"created_at":"SatDec1517:58:20+00002015", "updated_at":"SatDec1517:59:22+00002015", "id":"123456789",
-		"type":"nps",
-		"test":false,
-		"dm_id":"8989898989",
-		"from_user_id":"1212121212121",
-		"to_user_id":"343434343434",
-		"privacy_url":"https://my­business.domain/privacy",
-		"external_id":"ticket_5555",
-		"question_variant_id":"3",
-		"display_name":"MyBusinessName"
-	}
+  {
+    "created_at":"SatDec1517:58:20+00002015",
+    "updated_at":"SatDec1517:59:22+00002015",
+    "id":"123456789",
+    "type":"nps",
+    "test":false,
+    "dm_id":"8989898989",
+    "from_user_id":"1212121212121",
+    "to_user_id":"343434343434",
+    "privacy_url":"https://my­business.domain/privacy",
+    "external_id":"ticket_5555",
+    "question_variant_id":"3",
+    "display_name":"MyBusinessName"
+  }
 
 NPS Question Variants
 ----------------------------
