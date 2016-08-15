@@ -29,20 +29,20 @@ Parameters
 | **type**               | The Feedback type.                                                                                    |
 | (required)             | Possible values: csat, nps (case sensitive)                                                           |
 +------------------------+-------------------------------------------------------------------------------------------------------+
-| **to_user_id**         | The ID of the user who should receive the Feedback prompt in a direct message.                        |                                                        |
+| **to_user_id**         | The ID of the user who should receive the Feedback prompt in a direct message.                        |
 | (required)             |                                                                                                       |
 +------------------------+-------------------------------------------------------------------------------------------------------+
-| **message**            | The Direct Message text used to introduce the Feedback prompt.                                        |                                          |
+| **message**            | The Direct Message text used to introduce the Feedback prompt.                                        |
 | (required)             |                                                                                                       |
 +------------------------+-------------------------------------------------------------------------------------------------------+
-| **privacy_url**        | The URL to the sender’s hosted privacy policy. The sender is the business owner of the @username.     |                                                                               |
+| **privacy_url**        | The URL to the sender’s hosted privacy policy. The sender is the business owner of the @username.     |
 | (required)             |                                                                                                       |
 +------------------------+-------------------------------------------------------------------------------------------------------+
-| **external_id**        | An open field to track case IDs, conversation IDs, etc with a max length of 256 characters.           |                                                                       |
+| **external_id**        | An open field to track case IDs, conversation IDs, etc with a max length of 256 characters.           |                                                          
 | (optional)             |                                                                                                       |
 +------------------------+-------------------------------------------------------------------------------------------------------+
-| **question_variant_id**| The ID of the relative question variant text that will override the default text.                     |                                                               |
-| (optional)             | See NPS Question Variants and CSAT Question Variants sections. Default value is 0 if not provided.    |                                                       |
+| **question_variant_id**| The ID of the relative question variant text that will override the default text.                     |                                                      
+| (optional)             | See NPS Question Variants and CSAT Question Variants sections. Default value is 0 if not provided.    |                                   
 +------------------------+-------------------------------------------------------------------------------------------------------+
 | **display_name**       | Overrides the display name in the question text only                                                  |
 | (optional)             | (i.e. "How likely are you to recommend <display_name> to a friend?" Max length of 20 characters.)     |
@@ -51,7 +51,7 @@ Parameters
 +------------------------+-------------------------------------------------------------------------------------------------------+
 | **test**               | Boolean value. Default is false. If true, we will exclude this feedback from analytics / aggregations.|
 | (optional)             |                                                                                                       |       
-|                        | This value should be used for any testing activity.                                                   |                                      |
+|                        | This value should be used for any testing activity.                                                   | 
 +------------------------+-------------------------------------------------------------------------------------------------------+
 
 Example Result
