@@ -9,6 +9,12 @@ Twitter now supports the programmatic creation and delivery of feedback prompts 
 
 For API access please contact your Twitter account manager.
 
+API Reference
+-----------------------------
+- `POST feedback/create.json </feedback/create.rst>`_
+- `GET feedback/show/:id.json </feedback/show.rst>`_
+- `GET feedback/events.json </feedback/events.rst>`_
+- `Webhooks </webhooks.rst>`_
 
 Feedback Product Guidance
 -----------------------------

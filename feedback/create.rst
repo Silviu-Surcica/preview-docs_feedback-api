@@ -1,5 +1,5 @@
 =================================================
-POST direct_messages/welcome_messages/rules/new
+POST feedback/create.json
 =================================================
 
 Sends Feedback along with a Direct Message (DM) to a specified user. The DM message is required. Sending

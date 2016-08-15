@@ -1,5 +1,5 @@
 =================================================
-GET direct_messages/welcome_messages/rules/show
+GET feedback/show/:id.json
 =================================================
 
 Returns a single Feedback response for the specified ID in the URL.
