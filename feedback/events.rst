@@ -54,28 +54,28 @@ Example Result
 
 .. code:: javascript
 
-	{
-		"events":[
-			{
-				"event_type": "feedback.updated",
-				"created_at": "SatDec1517:58:22+00002015",
-				"feedback": {
-					"created_at": "SatDec1517:58:20+00002015",
-					"updated_at": "SatDec1517:59:22+00002015",
-					"id": "123456789",
-					...
-				}
-			},
-			{
-				"event_type": "feedback.created",
-				"created_at": "SatDec1517:59:22+00002015",
-				"feedback":{
-					"created_at": "SatDec1517:59:22+00002015",
-					"updated_at": "SatDec1517:59:22+00002015",
-					"id": "123456799",
-					...
-				}
-			}
-		],
-		"next_cursor": "10011"
-	}
+  {
+    "events":[
+      {
+        "event_type": "feedback.updated",
+        "created_at": "SatDec1517:58:22+00002015",
+        "feedback": {
+          "created_at": "SatDec1517:58:20+00002015",
+          "updated_at": "SatDec1517:59:22+00002015",
+          "id": "123456789",
+          ...
+        }
+      },
+      {
+        "event_type": "feedback.created",
+        "created_at": "SatDec1517:59:22+00002015",
+        "feedback":{
+          "created_at": "SatDec1517:59:22+00002015",
+          "updated_at": "SatDec1517:59:22+00002015",
+          "id": "123456799",
+          ...
+        }
+      }
+    ],
+    "next_cursor": "10011"
+  }

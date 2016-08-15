@@ -2,7 +2,7 @@
 POST feedback/create.json
 =================================================
 
-Sends Feedback along with a Direct Message (DM) to a specified user. The DM message is required. Sending
+Sends Feedback prompt along with a Direct Message (DM) to a specified user. The DM message is required. Sending
 Feedback inherits the Direct Message restrictions and behavior from `POST direct_messages/new <https://dev.twitter.com/rest/reference/post/direct_messages/new>`_.
 
 Resource Infromation

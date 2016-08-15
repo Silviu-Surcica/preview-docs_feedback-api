@@ -40,22 +40,22 @@ Example Result
 
 .. code:: javascript
 
-	{
-		"created_at": "SatDec1517:58:20+00002015",
-		"updated_at": "SatDec1517:59:22+00002015",
-		"id": "123456789"
-		"text": "Thankyouforbeingaloyalcustomer!",
-		"media_id_str": 12345,
-		"response": {
-			"score": {
-				"created_at": "SatDec1518:59:22+00002015",
-				"value": 1
-			},
-			"text": {
-				"created_at": "SatDec1518:59:52+00002015",
-				"value": "I<3thisbiz"
-			}
-		}
-	}
+  {
+    "created_at": "SatDec1517:58:20+00002015",
+    "updated_at": "SatDec1517:59:22+00002015",
+    "id": "123456789"
+    "text": "Thankyouforbeingaloyalcustomer!",
+    "media_id_str": 12345,
+    "response": {
+      "score": {
+        "created_at": "SatDec1518:59:22+00002015",
+        "value": 1
+      },
+      "text": {
+        "created_at": "SatDec1518:59:52+00002015",
+        "value": "I<3thisbiz"
+      }
+    }
+  }
 
 .. note:: Response object will only be present if data is available.
