@@ -9,6 +9,10 @@ Twitter now supports the programmatic creation and delivery of feedback prompts 
 
 For API access please contact your Twitter account manager.
 
+.. image:: images/Feedback_CSAT.png
+
+.. image:: images/Feedback_NPS.png
+
 API Reference
 -----------------------------
 - `POST feedback/create.json </feedback/create.rst>`_
