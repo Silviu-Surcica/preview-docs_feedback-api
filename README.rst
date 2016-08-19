@@ -7,7 +7,7 @@ Collecting structured feedback about customer interactions is an important part 
 
 Twitter now supports the programmatic creation and delivery of feedback prompts that allow a user to submit responses to feedback surveys after a conversation.
 
-**API access is availble to exisitng partners. Please contact your Twitter account manager for access.**
+API access is availble to Gnip customers. Please contact your Twitter account manager or visit `gnip.com/contact <https://gnip.com/contact/>`_ for access.
 
 .. image:: images/Feedback_CSAT.png
 
