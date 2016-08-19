@@ -9,6 +9,9 @@ Twitter now supports the programmatic creation and delivery of feedback prompts 
 
 API access is availble to Gnip customers. Please contact your Twitter account manager or visit `gnip.com/contact <https://gnip.com/contact/>`_ for access.
 
+For additional informataion please see our blog post on `Making customer service even better on Twitter <https://blog.twitter.com/2016/making-customer-service-even-better-on-twitter>`_.
+
+
 .. image:: images/Feedback_CSAT.png
 
 .. image:: images/Feedback_NPS.png
